@@ -5,6 +5,8 @@ build/
 dist/
 wheels/
 *.egg-info
+apiKey.txt
 
 # Virtual environments
 .venv
+llm.log
